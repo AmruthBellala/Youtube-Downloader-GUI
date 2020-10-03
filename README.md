@@ -12,7 +12,7 @@ How to run the code:
 >> Extract the Zip file to your Local Drive
 >> Open the command Prompt and go to the file location (where the extracted file is present)
 >> type the following command
-<script src="https://gist.github.com/B-Amruth/0887c4e774fd7af170e0e02a9b85c6a2.js"></script>
+<script src="https://gist.github.com/B-Amruth/a21dd54995ab763f594d3de7b8a51bc3.js"></script>
 
 >> output
-
+![UserInterface](UI.png)
