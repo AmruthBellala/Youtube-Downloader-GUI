@@ -5,3 +5,14 @@ First, download and install the latest version of Python 3 in your computer or l
 
 The best way to install the library is by using pip or conda. PIP comes pre-installed with Python 3.4 or greater versions. If you don’t have pip installed, you can download and install pip from this site (https://www.localtechies.tech/2020/10/what-is-pip-getting-started-with-python.html).
 To check the version of pip installed in your computer, open command prompt and type the following command - pip --version then press enter.
+
+How to run the code:
+
+>> Click on download zip file from the code option
+>> Extract the Zip file to your Local Drive
+>> Open the command Prompt and go to the file location (where the extracted file is present)
+>> type the following command
+<script src="https://gist.github.com/B-Amruth/0887c4e774fd7af170e0e02a9b85c6a2.js"></script>
+
+>> output
+
