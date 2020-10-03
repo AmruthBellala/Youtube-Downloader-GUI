@@ -12,7 +12,9 @@ How to run the code:
 >> Extract the Zip file to your Local Drive
 >> Open the command Prompt and go to the file location (where the extracted file is present)
 >> type the following command
-<script src="https://gist.github.com/B-Amruth/a21dd54995ab763f594d3de7b8a51bc3.js"></script>
+CMD ---> python Youtube_downloader.py
 
 >> output
+
+
 ![UserInterface](https://raw.githubusercontent.com/B-Amruth/Youtube-Downloader-GUI/main/UI.PNG)
