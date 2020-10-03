@@ -15,4 +15,4 @@ How to run the code:
 <script src="https://gist.github.com/B-Amruth/a21dd54995ab763f594d3de7b8a51bc3.js"></script>
 
 >> output
-![UserInterface](UI.png)
+![UserInterface](https://raw.githubusercontent.com/B-Amruth/Youtube-Downloader-GUI/main/UI.PNG)
